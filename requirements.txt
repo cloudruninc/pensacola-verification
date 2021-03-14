@@ -1,1 +1,7 @@
 git+https://github.com/cloudruninc/cloudrun-downloader
+jupyter
+matplotlib
+netCDF4
+numpy
+scipy
+xarray
